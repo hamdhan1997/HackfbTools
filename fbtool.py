@@ -60,8 +60,9 @@ logo = """
 \033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mMuhamad Hamdan Sobirin \033[1;97m               ║
 \033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/hamdhan97\033[1;97m              ║
 \033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/paroid.1998\033[0m\033[1;97m           ║
-\033[1;97m║\033[1;93m* \033[1;97mDownload apk Token \033[1;91m: \033[1;96m https://filebin.net/7a1c5lvtl8urhk59/Hamdan_Get_Token.apk?t=3z9llm5r\033[1;97m                  ║
-\033[1;97m║Cara Aman Ambil Token Harus Pake Akun FB Yang Baru 100% Ngga Checpoint    ║
+\033[1;97m║
+║
+
 \033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                        \033[1;97m                    ║
 \033[1;97m╚═════════════════════════════════════════════════════════════╝"""
 
